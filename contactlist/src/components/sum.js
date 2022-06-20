@@ -4,7 +4,7 @@ const sum =() => {
 
     return(
         <div>
-            <h2>3+4=7</h2>
+            <h2>helo</h2>
         </div> 
     )
 }
